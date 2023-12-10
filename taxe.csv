@@ -1,0 +1,12 @@
+MAJ,NOM,C/T,OBS
+2023-09-30,mine,1,'en m³, un tunnel fermer ne comptera pas'
+2023-09-30,route,2,
+2023-09-30,carrier,3,on recupère tout opposer à la mine
+2023-09-30,renou,4,agriculture qui doit être replanter chaque année
+2023-09-30,perm,5,agriculture qui n’as pas être replanter
+2023-09-30,elvag,6,pâturage 
+2023-09-30,usine,7,lieu de travail d’effort physique
+2023-09-30,burau,8,lieu de travail de réfléction
+2023-09-30,bati,9,construction non habiter
+2023-09-30,habitable,10,maison
+2023-09-30,sol,11,aucune construction ni revenue
